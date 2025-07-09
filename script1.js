@@ -1,6 +1,6 @@
 function changeAboutMeText() 
 {
-    const aboutMeTexts = ["Computer Science Engineer", "Frontend Developer"]; // Add more texts as needed
+    const aboutMeTexts = ["Computer Science Engineer", "Data Scientist"]; // Add more texts as needed
     const typingSpeed = 100; // milliseconds per character
     const eraseSpeed = 50; // milliseconds per character during erasing
     const pauseTime = 1500; // milliseconds to pause between each text change
